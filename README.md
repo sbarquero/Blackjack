@@ -5,6 +5,8 @@
 ## Descripción
 En este proyecto voy a desarrollar el juego de Blackjack para la consola de Javascript de un navegador, en el que el crupier va a jugar contra un solo jugador.
 
+![Captura de pantalla](captura.png)
+
 ## Reglas del juego
 A continuación expongo las **reglas simplificadas** para este proyecto, ya que las reales son más complejas.
 
